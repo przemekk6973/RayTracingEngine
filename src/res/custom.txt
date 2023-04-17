@@ -1,0 +1,8 @@
+/ <- this symbol tells parser to ignore this line
+/ delete / X: to add object 'X' to scene
+/ Sphere: S 0 0 0 1 0.2 0.2 0.2 0.4 0
+/ Box: B 3 3 3 2 2 2 0.6 0.6 0.6 0.2 0.8
+/ Plane: Pl -1F 0 0 0 False 1 0.2 0.2 
+
+
+
